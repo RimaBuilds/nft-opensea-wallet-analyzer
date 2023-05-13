@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+pandas==2.0.1
+python-dotenv==1.0.0
+requests==2.27.1
+opensea-api==0.1.7
