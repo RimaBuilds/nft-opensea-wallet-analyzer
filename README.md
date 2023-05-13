@@ -1,6 +1,8 @@
 # NFT OpenSea Wallet Analyzer
 
-This repository contains a Jupyter notebook that analyzes an Ethereum wallet's NFT holdings on the OpenSea platform. It fetches the wallet's collection data using the OpenSea API and visualizes the number of owned NFTs and their floor prices per collection.
+This repository contains a quick and simple Jupyter notebook that analyzes an Ethereum wallet's NFT holdings on the OpenSea platform. It fetches the wallet's collection data using the OpenSea API and visualizes the number of owned NFTs and their floor prices per collection like the graph below.
+
+![NFT Portfolio Graph](NFT%20port%20graph.png "NFT Portfolio Graph")
 
 ## Features
 
